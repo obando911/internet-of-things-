@@ -1,3 +1,39 @@
+# 🌐 Internet of Things (IoT) – Monitoreo de Sensores con Arduino
+
+![Arduino Banner](https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg)
+
+> Proyecto académico de desarrollo IoT enfocado en la **programación y monitoreo de sensores** mediante placas **Arduino**, integrando diversas tecnologías para la recolección, transmisión y visualización de datos en tiempo real.
+
+---
+
+## 🚀 Objetivo del Proyecto
+
+El propósito principal de este proyecto es **implementar un sistema de monitoreo de variables ambientales** (como temperatura, humedad, luz, o movimiento) utilizando **dispositivos IoT** conectados a la red.  
+Los datos recolectados por los sensores se envían a una plataforma donde se **almacenan, procesan y visualizan** para facilitar la toma de decisiones.
+
+---
+
+## 🧠 Tecnologías Utilizadas
+
+| Categoría | Herramientas |
+|------------|--------------|
+| **Hardware** | Arduino UNO / ESP32 / ESP8266 |
+| **Lenguajes de programación** | C/C++, Python, PHP, JavaScript |
+| **Backend / API** | Node.js, PHP |
+| **Frontend** | HTML5, CSS3, JavaScript |
+| **Base de datos** | MySQL / PostgreSQL |
+| **Plataformas de desarrollo** | Visual Studio Code, Arduino IDE |
+| **Control de versiones** | Git + GitHub |
+
+---
+
+## ⚙️ Instalación y Configuración
+
+1. **Clona el repositorio**
+   ```bash
+   git clone https://github.com/obando911/internet-of-things-.git
+
+
 # 🌡️ Control de Temperatura con Arduino UNO, LCD y Motor DC
 
 Este proyecto utiliza un **sensor de temperatura TMP36**, un **display LCD 16x2**, un **LED** y un **motor DC (ventilador)** controlado automáticamente según la temperatura ambiente.
