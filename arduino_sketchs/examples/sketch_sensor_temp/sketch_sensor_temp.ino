@@ -1,5 +1,5 @@
 #include<DHT.h>
-#define DHTPIN 7
+#define DHTPIN 4
 #define DHTTYPE DHT11
 #define LED_RED 13
 float humidity, temperature;
